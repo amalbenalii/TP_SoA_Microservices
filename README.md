@@ -117,7 +117,7 @@ Les requêtes sont effectuées avec les paramètres suivants :
 ---
 
 ## 5. Contact
-**Nom de l'étudiant :** Amal Ben Ali
+**Nom de l'étudiante :** Amal Ben Ali
 
 **Matière :** SoA et Microservices
 
